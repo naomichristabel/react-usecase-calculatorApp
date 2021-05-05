@@ -1,0 +1,25 @@
+.operators-list{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 0.5rem;
+        margin: 1rem 0;
+        background-color: #ffffff;
+    }
+
+    .operator-button{
+        background-color: rgb(45, 179, 12);
+        color: rgb(255, 255, 255);
+        padding: 0.5rem;
+        text-align: center;
+        border-radius: 5px;
+        width: 50px;
+        font-size: large;
+    }
+    
+    .operator-button:hover {
+        background-color: #002b02; 
+        color: white;
+     
+    }

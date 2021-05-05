@@ -1,0 +1,18 @@
+.reset-button {
+    background-color: rgb(189, 20, 20);
+    color: rgb(255, 255, 255);
+    padding: 0.5rem;
+    text-align: center;
+    border-radius: 5px;
+    width: 100px;
+    font-size: large;
+   
+
+}
+
+.reset-button-div {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    margin: 1rem 0;
+}
